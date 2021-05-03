@@ -8,6 +8,7 @@ These are the algorithms I created for MECH105 utilizing different numerical met
 - Modified Secant Method
 - Newton Raphson
 
+---
 
 **Numerical Methods**
 - Simpsons 1/3 rule
