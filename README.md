@@ -19,3 +19,4 @@ These are the algorithms I created for MECH105 utilizing different numerical met
 
 **Other Assignments**
 - Day Tracker
+- Normal to Binary
