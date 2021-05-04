@@ -9,4 +9,5 @@ This code takes into account a lot of errors and even incorporates the trapazoid
 ---
 
 **LU Decomposition**
--This algorithm 
+-This algorithm takes in a matrix and it's outputs and runs them through guess elimination and seperates into
+LU decomposition components. This code runs through multiple errors to make sure it runs correctly.
